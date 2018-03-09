@@ -12,3 +12,7 @@ Este es mi repositorio para clase de metodos y tecnicas de la UEMC
 [Mi pagina personal](http://www.google.com)
 
 ### Un enlace. Y otro
+
+
+## Issues
+Acepto todo tipo de propuestas de mejora de mi proyecto
