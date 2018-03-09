@@ -1,5 +1,9 @@
 # HolaMundo
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 Este es mi repositorio para clase de metodos y tecnicas de la UEMC
 
 ~~Hola~~ __adios__
